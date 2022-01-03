@@ -1,0 +1,5 @@
+Credentials cache: API:B999A999-256E-43D4-8C0C-A2C1917D1861
+        Principal: vaguilar@42BARCELONA.COM
+
+  Issued                Expires               Principal
+Oct 25 18:19:00 2021  Oct 26 04:18:52 2021  krbtgt/42BARCELONA.COM@42BARCELONA.COM
